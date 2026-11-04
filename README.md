@@ -1,28 +1,12 @@
-# AI-Testing-Project
-### Technical Skills
+# AI-Testing-Project Portfolio - Michael Nana Ampadu
 
-- **IT Support:** Hardware/software troubleshooting, incident resolution and technical support.
-- **Systems Administration:** Windows, Microsoft Server Administration and Microsoft 365.
-- **Networking:** TCP/IP, network troubleshooting and CCNA fundamentals.
-- **Software Testing:** Manual testing, test cases, bug reporting, ISTQB and TMap fundamentals.
-- **AI Testing:** AI application testing, output evaluation, test scenarios and quality assessment.
-- **Programming:** Python and basic AI programming.
-- **Data Analytics:** SQL, MySQL, Power BI and Excel.
+I am a junior software tester focused on testing AI systems such as chatbots.
+I combine ISTQB testing principles with a background in IT and an MSc in Energy for Society.
 
-### Featured Projects
+## Projects
+1. Manual chatbot testing – accuracy, hallucination, bias, safety (in progress)
+2. Energy-policy chatbot and security testing (planned)
 
-1. **AI Testing Project** – Testing AI-powered applications, evaluating outputs, documenting test scenarios and identifying defects.
-2. **IT Support Troubleshooting Lab** – Practical Windows and hardware troubleshooting.
-3. **Network Configuration Lab** – Network configuration and troubleshooting.
-4. **Windows Server Administration Lab** – User management and Active Directory.
-5. **Python IT Automation** – Practical IT automation scripts.
-6. **Power BI Dashboard** – Data analysis and reporting.
+3. ## Contact
+LinkedIn: [your link]
 
-### Professional Interests
-
-- AI Quality Assurance and Testing
-- Software Testing and QA Engineering
-- IT Support and Infrastructure
-- Data Centre Operations
-- Networking and Systems Administration
-- AI Reliability and Evaluation
